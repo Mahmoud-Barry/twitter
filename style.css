@@ -19,6 +19,10 @@
     border-bottom: 1px solid  rgb(29, 161, 242);
     color:  rgb(29, 161, 242);
 }
+.fa-twitter{
+    font-size: 35px;
+    color:  rgb(29, 161, 242);
+}
 .connexion h3{
     font-weight: bold;
 }
@@ -27,3 +31,7 @@
 }
 
 /*Inscription */
+.btn-suivant{
+    border-radius: 28px;
+    float: right;
+}
